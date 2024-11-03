@@ -7,8 +7,6 @@ Author: __[Liam Hudson](https://www.linkedin.com/in/liamhud-son)__
 ## Overview
 This project investigates civil aviation accident dataset from the __[National Transportation Safety Board](https://www.ntsb.gov/Pages/home.aspx)__ (NTSB), containing over 90,000 records of accident data between 1962 to 2023. Using data cleaning, analysis, and visualization techniques, the primary goal is to find the safest aircrafts based on a number of variables. These include the number of engines in each aircraft, its type of engine, injury severity, and injury count.
 
-Tableau Dashboard: https://public.tableau.com/views/BoeingandAirbusModelsDashboard/BoeingandAirbusModelsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 ## Business Understanding
 My business, Polaris Capital, wants to diversify its reach into new industries. I am tasked with investigating the potential risk of aircrafts and making three business suggestions that will help to make a decision that takes on as little risk as possible. I will base my suggestions on various components of an aircraft that have demonstrated low risk in the overall dataset of aviation accidents. Polaris Capital will use these suggestions to purchase and operate aircrafts for commercial and private enterprises.
 
@@ -70,12 +68,15 @@ Further analyses could expose more insight to potentially better alternatives:
 
 * Looking at outliers in the data. My task was to identify the main components of an aircraft that are the least likely to cause an accident. However, there were some records that had outlier data, like the planes with "Electric," "LR," "Hybrid Rocket," and "Geared Turbofan" engine types. I chose not to investigate those records as they composed a small percentage of the data and would not result in a conducive analysis.
 
+## For More Information
+See the full breakdown of this dataset in this __[Jupyter Notebook](https://github.com/lthudson42/Phase-1-Project/blob/ad28e77735295df3193c8d381ed05543b50f42f2/polaris_capital_aircraft_analysis.ipynb)__ or viewing this __[presentation]()__. Additional visualizations are also available to view on this interactive __[Tableau Dashboard](https://public.tableau.com/views/BoeingandAirbusModelsDashboard/BoeingandAirbusModelsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)__.
+
 ## Repo Structure
 
 ```
 ├── Data
 ├── .gitignore
 ├── README.md
-├── Polaris_Capital_Analysis_Presentation.pdf
-└── polaris_capital_aircraft_analysis.ipynb
+├── polaris_capital_aircraft_analysis.ipynb
+└── Polaris_Capital_Analysis_Presentation.pdf
 ```
