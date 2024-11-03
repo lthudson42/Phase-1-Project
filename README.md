@@ -71,3 +71,9 @@ Further analyses could expose more insight to potentially better alternatives:
 * Looking at outliers in the data. My task was to identify the main components of an aircraft that are the least likely to cause an accident. However, there were some records that had outlier data, like the planes with "Electric," "LR," "Hybrid Rocket," and "Geared Turbofan" engine types. I chose not to investigate those records as they composed a small percentage of the data and would not result in a conducive analysis.
 
 ## Repo Structure
+
+├── data
+├── images
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── animal_shelter_needs_analysis.ipynb
