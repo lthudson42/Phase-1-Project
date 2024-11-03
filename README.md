@@ -1,5 +1,4 @@
-![unnamed.png](attachment:7145799d-4889-4143-8298-97ea4579eef9.png)
-***
+<img src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Faviation-banner&psig=AOvVaw1a_1zbLYEga_eDBurMO3gi&ust=1730694885293000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCP5oGrv4kDFQAAAAAdAAAAABAE/filename.gif” alt=“Alt text” title=“Title text” />
 
 # Portfolio Diversification Needed: Commercial Aviation for Polaris Capital
 Author: __[Liam Hudson](https://www.linkedin.com/in/liamhud-son)__
@@ -18,4 +17,4 @@ The National Transportation Safety Board has a comprehensive dataset that record
 ## Data Preparation
 
 
-# Repo Structure
+## Repo Structure
