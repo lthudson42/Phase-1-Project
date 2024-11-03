@@ -71,8 +71,6 @@ Further analyses could expose more insight to potentially better alternatives:
 ## For More Information
 See the full breakdown of this dataset in this __[Jupyter Notebook](https://github.com/lthudson42/Phase-1-Project/blob/ad28e77735295df3193c8d381ed05543b50f42f2/polaris_capital_aircraft_analysis.ipynb)__ or viewing this __[presentation]()__. Additional visualizations are also available to view on this interactive __[Tableau Dashboard](https://public.tableau.com/views/BoeingandAirbusModelsDashboard/BoeingandAirbusModelsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)__.
 
-![logo for Polaris Capital](https://github.com/user-attachments/assets/ddde3bd9-42e9-4725-a877-dba53faa0366 =250x250)
-
 ## Repo Structure
 
 ```
