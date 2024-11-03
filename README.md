@@ -1,6 +1,7 @@
-<img src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Faviation-banner&psig=AOvVaw1a_1zbLYEga_eDBurMO3gi&ust=1730694885293000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCP5oGrv4kDFQAAAAAdAAAAABAE/filename.gif” alt=“Alt text” title=“Title text” />
-
-# Portfolio Diversification Needed: Commercial Aviation for Polaris Capital
+![4e5d008b-2817-4167-9010-90b646e0b654-profile_banner-480](https://github.com/user-attachments/assets/0341f5f3-1f43-4b6a-a1b1-1621b6750be0)
+ 
+# Portfolio Diversification Needed:
+Commercial Aviation for Polaris Capital
 Author: __[Liam Hudson](https://www.linkedin.com/in/liamhud-son)__
 
 ## Overview
