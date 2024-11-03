@@ -1,5 +1,5 @@
-![4e5d008b-2817-4167-9010-90b646e0b654-profile_banner-480](https://github.com/user-attachments/assets/0341f5f3-1f43-4b6a-a1b1-1621b6750be0)
- 
+![commercial-airplane-jetliner-flying-above-600nw-788233372](https://github.com/user-attachments/assets/b9ef7e31-a889-47a8-835f-948118a4e64b)
+
 # Portfolio Diversification Needed:
 Commercial Aviation for Polaris Capital
 Author: __[Liam Hudson](https://www.linkedin.com/in/liamhud-son)__
