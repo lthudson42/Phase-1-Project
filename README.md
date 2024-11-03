@@ -40,6 +40,15 @@ The variables that these decisions are based on:
 
 ![image](https://github.com/user-attachments/assets/8bff992e-42b0-4bc2-b293-c840d2c8aefd)
 
+This chart shows the significantly large frequency of Reciprocating and Turbo Fan engines in aviation accidents. Thus, these components need to be avoided.
+
+![image](https://github.com/user-attachments/assets/c0384a95-5cae-4b98-8352-e97c428d6100)
+
+Though, this chart demonstrates that aircrafts with 4 Reciprocating engines can be safe due to an incredibly small frequency in the dataset.
+
+![image](https://github.com/user-attachments/assets/02b40b85-5eb0-4a33-a557-2486053a29c9)
+
+This chart demonstrates that there is no recognizable correlation between the count of Turbo Jet engines in Boeing aircrafts. Thus, these cannot be deemed as a safe option.
 
 ## Conclusion
 
