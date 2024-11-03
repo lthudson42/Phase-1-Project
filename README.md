@@ -72,8 +72,10 @@ Further analyses could expose more insight to potentially better alternatives:
 
 ## Repo Structure
 
+```
 ├── data
 ├── images
 ├── README.md
 ├── Animal_Shelter_Needs_Presentation.pdf
 └── animal_shelter_needs_analysis.ipynb
+```
