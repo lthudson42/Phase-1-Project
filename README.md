@@ -73,9 +73,9 @@ Further analyses could expose more insight to potentially better alternatives:
 ## Repo Structure
 
 ```
-├── data
-├── images
+├── Data
+├── .gitignore
 ├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── Polaris_Capital_Analysis_Presentation.pdf
+└── polaris_capital_aircraft_analysis.ipynb
 ```
