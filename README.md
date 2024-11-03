@@ -69,7 +69,7 @@ Further analyses could expose more insight to potentially better alternatives:
 * Looking at outliers in the data. My task was to identify the main components of an aircraft that are the least likely to cause an accident. However, there were some records that had outlier data, like the planes with "Electric," "LR," "Hybrid Rocket," and "Geared Turbofan" engine types. I chose not to investigate those records as they composed a small percentage of the data and would not result in a conducive analysis.
 
 ## For More Information
-See the full breakdown of this dataset in this __[Jupyter Notebook](https://github.com/lthudson42/Phase-1-Project/blob/ad28e77735295df3193c8d381ed05543b50f42f2/polaris_capital_aircraft_analysis.ipynb)__ or viewing this __[presentation]()__. Additional visualizations are also available to view on this interactive __[Tableau Dashboard](https://public.tableau.com/views/BoeingandAirbusModelsDashboard/BoeingandAirbusModelsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)__.
+See the full breakdown of this dataset in this __[Jupyter Notebook](https://github.com/lthudson42/Phase-1-Project/blob/ad28e77735295df3193c8d381ed05543b50f42f2/polaris_capital_aircraft_analysis.ipynb)__ or viewing this __[presentation](https://github.com/lthudson42/Phase-1-Project/blob/6c076540272f1fc8ff50574c6282eba40e9168ab/Polaris%20Capital%20Analysis%20Presentation.pdf)__. Additional visualizations are also available to view on this interactive __[Tableau Dashboard](https://public.tableau.com/views/BoeingandAirbusModelsDashboard/BoeingandAirbusModelsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)__.
 
 ## Repo Structure
 
