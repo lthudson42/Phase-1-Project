@@ -76,7 +76,7 @@ See the full breakdown of this dataset in this __[Jupyter Notebook](https://gith
 ```
 ├── Data
 ├── .gitignore
+├── Polaris_Capital_Analysis_Presentation.pdf
 ├── README.md
-├── polaris_capital_aircraft_analysis.ipynb
-└── Polaris_Capital_Analysis_Presentation.pdf
+└── polaris_capital_aircraft_analysis.ipynb
 ```
