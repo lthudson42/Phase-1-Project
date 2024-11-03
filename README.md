@@ -76,6 +76,6 @@ Further analyses could expose more insight to potentially better alternatives:
 ├── Data
 ├── .gitignore
 ├── README.md
-├── Polaris_Capital_Analysis_Presentation.pdf
-└── polaris_capital_aircraft_analysis.ipynb
+├──polaris_capital_aircraft_analysis.ipynb
+└── Polaris_Capital_Analysis_Presentation.pdf
 ```
