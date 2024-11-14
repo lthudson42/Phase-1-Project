@@ -2,6 +2,7 @@
 
 # Portfolio Diversification Needed:
 Commercial Aviation for Polaris Capital
+
 Author: __[Liam Hudson](https://www.linkedin.com/in/liamhud-son)__
 
 ## Overview
